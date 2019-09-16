@@ -1,0 +1,38 @@
+body{
+    font-family: Arial, sans-serif;
+    margin: 1em;
+    padding: 0;
+}
+main{
+    width: 500px;
+    margin: 0 auto;
+    padding: 0;
+    margin-top: 1em;
+    border: 1px solid blue;
+    background-color: silver;
+}
+label{
+    width: 10em;
+    padding-left: 1em;
+    float: left;
+}
+#data {
+    margin-top: 0.5em;
+}
+#data input{
+    margin-bottom: 0.5em;
+    float: left;
+}
+#data textarea{
+    float:left;
+    margin-left: 1em;
+    margin-bottom: 1em;
+}
+#submit input{
+    float: left;
+    margin-left: 1em;
+    margin-bottom: 0.5em;
+}
+br {
+    clear:left;
+}
